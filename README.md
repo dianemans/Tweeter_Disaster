@@ -1,2 +1,2 @@
-# Tweeter_Disaster
+# Tweeter Disaster
 Kaggle competition
